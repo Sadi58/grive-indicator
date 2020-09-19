@@ -2,11 +2,7 @@ Notice
 ===============
 I've decided to stop working on this project because (1) development of grive has stopped some time ago, and (2) I've become convinced that ocamlfuse solution (see https://github.com/astrada/google-drive-ocamlfuse & http://www.webupd8.org/2013/09/mount-google-drive-in-linux-with-google.html) represents a good alternative, although without an indicator for now.
 
-I've later found another git repository that may be considered as a better alternative to the obsolete grive project, and also wrote a similar indicator for it (https://github.com/Sadi58/indicator-drive) which was also suspended after finding a fully functional Google Drive Indicator for Linux:
-
-https://www.thefanclub.co.za/overgrive
-
-I personally think it's worth giving $4.99 for this valuable work :-)
+I've later found another git repository that may be considered as a better alternative to the obsolete grive project, and also wrote a similar indicator for it (https://github.com/Sadi58/indicator-drive) which was also suspended upon arrival fully functional Google Drive clients for Linux.
 
 grive-indicator
 ===============
